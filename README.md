@@ -45,7 +45,7 @@
 1. [CSS 世界精选集](https://mp.weixin.qq.com/s/W8-Cu8Mjh00Rze5o4bFKag)
 1. [单标签！纯 CSS 实现动态晴阴雨雪](https://juejin.im/post/5d2716ab5188257b775d35ba)
 1. [「css 基础」你想知道的伪元素内容都在这篇文章里（长文值得收藏）](https://mp.weixin.qq.com/s/a8tGcnhYvq0zlkWuBHoQ-w)
-1. [灵活运用 CSS 开发技巧(66 个实用技巧，值得收藏)](https://juejin.im/post/5d4d0ec651882549594e7293)
+1. [灵活运用CSS开发技巧(66 个实用技巧，值得收藏)](https://juejin.im/post/5d4d0ec651882549594e7293)
 1. [从青铜到王者 10 个 css3 伪类使用技巧和运用，了解一哈](https://juejin.im/post/5b6d0c5cf265da0f504a837f)
 1. [用 css3 实现惊艳面试官的背景即背景动画（高级附源码）](https://juejin.im/post/5d86fc096fb9a06ae94d6d7a)
 1. [多网站项目的 CSS 架构](https://mp.weixin.qq.com/s/Zyimaq5bzdJfVjS8oXX9Tg)
