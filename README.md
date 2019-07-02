@@ -13,4 +13,5 @@
 1. [如何学习 CSS](https://mp.weixin.qq.com/s/ZM3WPlQkvNr7OIJvDfjQ3A)
 1. [30 Seconds of CSS 中文版](https://github.com/kujian/30-seconds-of-css)
 1. [提高幸福感的 9 个 CSS 技巧](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556405&idx=1&sn=560b673b36263fb727cddc2b137a8ca5&chksm=80255df4b752d4e25853cd50351896f524c37e533d3ef8bf72e5dfa848d7209c7097bdcea80f&scene=21#wechat_redirect)
-2. css3动画
+2. [CSS tricks](https://github.com/QiShaoXuan/css_tricks)
+3. css3动画
