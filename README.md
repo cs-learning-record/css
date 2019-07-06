@@ -1,3 +1,16 @@
+![image](./img/timg.jpg)
+<br>
+
+## 前言
+
+本人平时学习及收集内容，欢迎参入一起讨论。
+
+## 关于作者
+
+暂时欠着
+
+## 目录
+
 1. 盒子模型
 1. [【CSS模块化之路1】使用BEM与命名空间来规范CSS](https://github.com/alienzhou/blog/issues/14)
 1. [【CSS模块化之路2】webpack中的Local Scope](https://github.com/alienzhou/blog/issues/15)
@@ -15,3 +28,11 @@
 1. [提高幸福感的 9 个 CSS 技巧](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556405&idx=1&sn=560b673b36263fb727cddc2b137a8ca5&chksm=80255df4b752d4e25853cd50351896f524c37e533d3ef8bf72e5dfa848d7209c7097bdcea80f&scene=21#wechat_redirect)
 2. [CSS tricks](https://github.com/QiShaoXuan/css_tricks)
 3. css3动画
+
+## 联系作者
+<div align="center">
+    <p>
+        在颠覆世界的同时，也要好好关照自己。
+    </p>
+    <img src="./img/contact.png" />
+</div>
