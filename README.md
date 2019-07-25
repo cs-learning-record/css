@@ -38,7 +38,8 @@
 2. [CSS tricks](https://github.com/QiShaoXuan/css_tricks)
 3. [CSS 中重要的层叠概念](https://www.cnblogs.com/tugenhua0707/p/11142077.html)
 4. [前端基础篇之CSS世界](https://juejin.im/post/5ce607a7e51d454f6f16eb3d)
-5. css3动画
+5. [彻底搞懂CSS层叠上下文、层叠等级、层叠顺序、z-index](https://juejin.im/post/5b876f86518825431079ddd6)
+6. css3动画
 
 ## 联系作者
 <div align="center">
