@@ -41,7 +41,8 @@
 5. [彻底搞懂CSS层叠上下文、层叠等级、层叠顺序、z-index](https://juejin.im/post/5b876f86518825431079ddd6)
 6. [你未必知道的49个CSS知识点](https://juejin.im/post/5d3eca78e51d4561cb5dde12)
 7. [45个值得收藏的 CSS 形状](https://github.com/qq449245884/xiaozhi/issues/42)
-8. css3动画
+8. [CSS 世界精选集](https://mp.weixin.qq.com/s/W8-Cu8Mjh00Rze5o4bFKag)
+9. css3动画
 
 ## 联系作者
 <div align="center">
