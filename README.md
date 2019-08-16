@@ -42,7 +42,8 @@
 6. [你未必知道的49个CSS知识点](https://juejin.im/post/5d3eca78e51d4561cb5dde12)
 7. [45个值得收藏的 CSS 形状](https://github.com/qq449245884/xiaozhi/issues/42)
 8. [CSS 世界精选集](https://mp.weixin.qq.com/s/W8-Cu8Mjh00Rze5o4bFKag)
-9. css3动画
+9. [单标签！纯CSS实现动态晴阴雨雪](https://juejin.im/post/5d2716ab5188257b775d35ba)
+10. css3动画
 
 ## 联系作者
 <div align="center">
