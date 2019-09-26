@@ -47,7 +47,8 @@
 11. [灵活运用 CSS 开发技巧(66 个实用技巧，值得收藏)](https://juejin.im/post/5d4d0ec651882549594e7293)
 12. [从青铜到王者10个css3伪类使用技巧和运用，了解一哈](https://juejin.im/post/5b6d0c5cf265da0f504a837f)
 13. [用css3实现惊艳面试官的背景即背景动画（高级附源码）](https://juejin.im/post/5d86fc096fb9a06ae94d6d7a)
-14. css3动画
+14. [多网站项目的 CSS 架构](https://mp.weixin.qq.com/s/Zyimaq5bzdJfVjS8oXX9Tg)
+15. css3动画
 
 ## 联系作者
 
