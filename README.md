@@ -50,7 +50,8 @@
 1. [用 css3 实现惊艳面试官的背景即背景动画（高级附源码）](https://juejin.im/post/5d86fc096fb9a06ae94d6d7a)
 1. [多网站项目的 CSS 架构](https://mp.weixin.qq.com/s/Zyimaq5bzdJfVjS8oXX9Tg)
 2. [Grid网格布局实例](https://mp.weixin.qq.com/s/jCulRlNC0990lYSBsEFJag)
-3. css3 动画
+3. [彻底搞懂word-break、word-wrap、white-space](https://mp.weixin.qq.com/s/revhs0WEGiew-OSNQVMZGw)
+4. css3 动画
 
 ## 联系作者
 
