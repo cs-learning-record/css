@@ -51,7 +51,7 @@
 1. [多网站项目的 CSS 架构](https://mp.weixin.qq.com/s/Zyimaq5bzdJfVjS8oXX9Tg)
 2. [Grid网格布局实例](https://mp.weixin.qq.com/s/jCulRlNC0990lYSBsEFJag)
 3. [彻底搞懂word-break、word-wrap、white-space](https://mp.weixin.qq.com/s/revhs0WEGiew-OSNQVMZGw)
-4. css3 动画
+4. [2019年了，你还不会CSS动画？](https://juejin.im/post/5cdd178ee51d456e811d279b)
 
 ## 联系作者
 
