@@ -52,6 +52,9 @@
 2. [Grid网格布局实例](https://mp.weixin.qq.com/s/jCulRlNC0990lYSBsEFJag)
 3. [彻底搞懂word-break、word-wrap、white-space](https://mp.weixin.qq.com/s/revhs0WEGiew-OSNQVMZGw)
 4. [2019年了，你还不会CSS动画？](https://juejin.im/post/5cdd178ee51d456e811d279b)
+5. [《css大法》之使用伪元素实现超实用的图标库](https://mp.weixin.qq.com/s/udMV3ocpdj7Ks9xmPV2xdg)
+6. [这30个CSS选择器，你必须熟记（上）](https://mp.weixin.qq.com/s/SGoK-eRb1KwtSN9X81SXzw)
+7. [《css大法》之使用伪元素实现超实用的图标库](https://mp.weixin.qq.com/s/PxP62LlEl0jB7cVAPMjXyg)
 
 ## 联系作者
 
