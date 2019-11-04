@@ -55,7 +55,8 @@
 33. [《css大法》之使用伪元素实现超实用的图标库](https://mp.weixin.qq.com/s/udMV3ocpdj7Ks9xmPV2xdg)
 34. [这30个CSS选择器，你必须熟记（上）](https://mp.weixin.qq.com/s/SGoK-eRb1KwtSN9X81SXzw)
 35. [这30个CSS选择器，你必须熟记（中）](https://mp.weixin.qq.com/s/-MXNffO2rRoksyRjDb8hdA)
-36. [《css大法》之使用伪元素实现超实用的图标库](https://mp.weixin.qq.com/s/PxP62LlEl0jB7cVAPMjXyg)
+36. [这30个CSS选择器，你必须熟记（下）](https://mp.weixin.qq.com/s/ngdGJ-qzbLDqt0Mj9rPq4w)
+37. [《css大法》之使用伪元素实现超实用的图标库](https://mp.weixin.qq.com/s/PxP62LlEl0jB7cVAPMjXyg)
 
 ## 联系作者
 
