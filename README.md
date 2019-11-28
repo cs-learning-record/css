@@ -55,12 +55,11 @@
 33. [这30个CSS选择器，你必须熟记（上）](https://mp.weixin.qq.com/s/SGoK-eRb1KwtSN9X81SXzw)
 34. [这30个CSS选择器，你必须熟记（中）](https://mp.weixin.qq.com/s/-MXNffO2rRoksyRjDb8hdA)
 35. [这30个CSS选择器，你必须熟记（下）](https://mp.weixin.qq.com/s/ngdGJ-qzbLDqt0Mj9rPq4w)
-36. [《css大法》之使用伪元素实现超实用的图标库](https://mp.weixin.qq.com/s/PxP62LlEl0jB7cVAPMjXyg)
-37. [可能是最全的 “文本溢出截断省略” 方案合集](https://mp.weixin.qq.com/s/HhSdZ1RBSRZt9I84qZj6oA)
-38. [CSS工程化演进](https://zhuanlan.zhihu.com/p/32117359)
-39. [轻轻松松实现高难度懒加载、吸顶、触底](https://mp.weixin.qq.com/s/uRMYrxaduPaMkc97Upjkqg)
-40. [300 毫秒点击延迟的来龙去脉](https://mp.weixin.qq.com/s/VruiJehI31HaE6HflyCHrQ)
-41. [web前端面试中10个关于css高频面试题,你都会吗?](https://mp.weixin.qq.com/s/YZ2J4BRryoEBbKH7rqXjzA)
+36. [可能是最全的 “文本溢出截断省略” 方案合集](https://mp.weixin.qq.com/s/HhSdZ1RBSRZt9I84qZj6oA)
+37. [CSS工程化演进](https://zhuanlan.zhihu.com/p/32117359)
+38. [轻轻松松实现高难度懒加载、吸顶、触底](https://mp.weixin.qq.com/s/uRMYrxaduPaMkc97Upjkqg)
+39. [300 毫秒点击延迟的来龙去脉](https://mp.weixin.qq.com/s/VruiJehI31HaE6HflyCHrQ)
+40. [web前端面试中10个关于css高频面试题,你都会吗?](https://mp.weixin.qq.com/s/YZ2J4BRryoEBbKH7rqXjzA)
 
 ## 联系作者
 
